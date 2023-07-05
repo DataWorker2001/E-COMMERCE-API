@@ -1,6 +1,10 @@
 const mongoose = require('mongoose');
 
-const dbURI = 'mongodb+srv://Arpan2001:Arpan2023@cluster0.hciafyn.mongodb.net/?retryWrites=true&w=majority';
+// const dbURI = 'mongodb+srv://Arpan2001:Arpan2023@cluster0.hciafyn.mongodb.net/?retryWrites=true&w=majority/ecom';
+// const dbURI = 'mongodb://atlas-sql-64a4c72a850c220cc358ab52-uhbfl.a.query.mongodb.net/test?ssl=true&authSource=admin/ecom';
+const dbURI = 'mongodb+srv://Arpan2001:Arpan2023@cluster0.hciafyn.mongodb.net/ecom';
+
+
  // Replace 'your-database-name' with your actual database name
 
 mongoose.connect(dbURI, {
