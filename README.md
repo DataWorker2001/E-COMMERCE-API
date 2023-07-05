@@ -10,8 +10,8 @@ This project implements an API for an ecommerce platform admin to manage product
 Tech Stack:- 
 Node.js and MongoDB
 
-Folder Structure:- 
-ecommerce-api
+Folder Structure:- <br/> 
+ecommerce-api <br/>
 ├── models <br/>
 │   └── product.js <br/>
 ├── controllers <br/>
