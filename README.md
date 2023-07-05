@@ -49,7 +49,9 @@ const dbURI = 'mongodb+srv://<username>:<password>@cluster0.hciafyn.mongodb.net/
 $ Shell/Terminal <br/>
 npm start <br/>
 The server will start running on http://localhost:3000.<br/>
----------------------------------------------------------------------------x----------------------------------------------------------------------------- 
+---------------------------------------------------------------------------x-----------------------------------------------------------------------------
+
+
 API Endpoints:-<br/>
 
 i) Add a product to the database
