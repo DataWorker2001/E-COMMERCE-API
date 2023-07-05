@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 
-const dbURI = 'mongodb://127.0.0.1:27017/ecom'; // Replace 'your-database-name' with your actual database name
+const dbURI = 'mongodb+srv://Arpan2001:Arpan2023@e-commerce-api.ix1zu2m.mongodb.net/?retryWrites=true&w=majority';
+ // Replace 'your-database-name' with your actual database name
 
 mongoose.connect(dbURI, {
   useNewUrlParser: true,
