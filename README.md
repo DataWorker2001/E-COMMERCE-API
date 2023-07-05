@@ -24,27 +24,27 @@ Setup:-
 To set up the project on your local system, follow these steps:
 
 1) Clone the repository:-
-$ Shell/Terminal
-echo
+$ Shell/Terminal:
 git clone https://github.com/DataWorker2001/E-COMMERCE-API.git
 
-3) Install dependencies:
-$ Shell/Terminal
-echo
+3) Install dependencies:-
+
+$ Shell/Terminal:
 cd ecommerce-api
 npm install
 
 
-4) Configure the MongoDB connection in db.js using the dbURI variable as: <br/>
-const dbURI = 'mongodb+srv://username:password@cluster0.hciafyn.mongodb.net/ecom';
+5) Configure the MongoDB connection in db.js using the dbURI variable as: <br/>
+const dbURI = 'mongodb+srv://<username>:<password>@cluster0.hciafyn.mongodb.net/ecom';
 
 after creating a db.js file in the config folder in the root directory and the rest code.
 
 5) Start the server:
-
-$npm start
-The server will start running on http://localhost:3000.
---------------------------------------------------------------------------------x-----------------------------------------------------------------------------------
+<br/>
+$ Shell/Terminal <br/>
+npm start <br/>
+The server will start running on http://localhost:3000.<br/>
+--------------------------------------------------------------------------------x----------------------------------------------------------------------------------- <br/>
 API Endpoints:-
 
 i) Add a product to the database
