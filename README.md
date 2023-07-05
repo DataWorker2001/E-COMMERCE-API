@@ -38,9 +38,8 @@ npm install
 
 
 5) Configure the MongoDB connection in db.js using the dbURI variable as: <br/>
-const dbURI = 'mongodb+srv://<username>:<password>@cluster0.hciafyn.mongodb.net/ecom';
-
-after creating a db.js file in the config folder in the root directory and the rest code.
+const dbURI = 'mongodb+srv://<username>:<password>@cluster0.hciafyn.mongodb.net/ecom';<br/>
+ after creating a db.js file in the config folder in the root directory and the rest code.
 
 5) Start the server:
 <br/>
