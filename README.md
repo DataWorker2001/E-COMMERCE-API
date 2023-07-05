@@ -2,6 +2,9 @@
 
 ## Contributed By: Arpan Choudhury
 
+![image](https://github.com/DataWorker2001/E-COMMERCE-API/assets/123379937/9b5f4fd9-391f-4f4c-99d8-cedaf8f97aab)
+
+
 This project implements an API for an ecommerce platform admin to manage product inventory using Node.js and MongoDB. It provides endpoints to add, list, update, and delete products from the inventory.
 
 Tech Stack:- 
