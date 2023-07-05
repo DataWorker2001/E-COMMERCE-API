@@ -41,7 +41,7 @@ cd ecommerce-api<br/>
 npm install
 
 
-5) Configure the MongoDB connection in db.js using the dbURI variable as: <br/>
+4) Configure the MongoDB connection in db.js using the dbURI variable as: <br/>
 const dbURI = 'mongodb+srv://<username>:<password>@cluster0.hciafyn.mongodb.net/ecom';<br/>
  after creating a db.js file in the config folder in the root directory and the rest code.
 
@@ -49,7 +49,7 @@ const dbURI = 'mongodb+srv://<username>:<password>@cluster0.hciafyn.mongodb.net/
 $ Shell/Terminal <br/>
 npm start <br/>
 The server will start running on http://localhost:3000.<br/>
----------------------------------------------------------------------------x----------------------------------------------------------------------------- <br/>
+---------------------------------------------------------------------------x----------------------------------------------------------------------------- 
 API Endpoints:-
 
 i) Add a product to the database
