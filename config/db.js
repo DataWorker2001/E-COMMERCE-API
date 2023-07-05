@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const dbURI = 'mongodb+srv://Arpan2001:Arpan2023@e-commerce-api.ix1zu2m.mongodb.net/?retryWrites=true&w=majority';
+const dbURI = 'mongodb+srv://Arpan2001:Arpan2023@cluster0.hciafyn.mongodb.net/?retryWrites=true&w=majority';
  // Replace 'your-database-name' with your actual database name
 
 mongoose.connect(dbURI, {
