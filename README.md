@@ -52,8 +52,7 @@ URL [POST]: /products/create
 
 Request body:
 
-json
-Copy code
+$json: <br/>
 {
   "name": "laptop",
   "quantity": 10
@@ -72,10 +71,10 @@ Copy code
 ii) List all products
 URL [GET]: /products
 
-Response body:
+Response body: <br/>
 
-json
-Copy code
+$json <br/>
+
 {
   "products": [
     {
@@ -98,10 +97,9 @@ Copy code
 iii) Delete a product
 URL [DELETE]: /products/:id
 
-Response body:
+Response body: <br/>
 
-json
-Copy code
+$json: <br/>
 {
   "message": "product deleted"
 }
@@ -111,8 +109,7 @@ URL [POST]: /products/:id/update_quantity/?number=10
 
 Response body:
 
-json
-$echo
+$json: <br/>
 {
   "product": {
     "id": 1,
