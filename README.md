@@ -45,8 +45,7 @@ npm install
 const dbURI = 'mongodb+srv://<username>:<password>@cluster0.hciafyn.mongodb.net/ecom';<br/>
  after creating a db.js file in the config folder in the root directory and the rest code.
 
-5) Start the server:
-<br/>
+5) Start the server:<br/>
 $ Shell/Terminal <br/>
 npm start <br/>
 The server will start running on http://localhost:3000.<br/>
