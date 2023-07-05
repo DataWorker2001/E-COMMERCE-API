@@ -23,8 +23,8 @@ ecommerce-api
 Setup:-
 To set up the project on your local system, follow these steps:
 
-1) Clone the repository:-
-$ Shell/Terminal:
+1) Clone the repository:- <br/>
+$ Shell/Terminal:<br/>
 git clone https://github.com/DataWorker2001/E-COMMERCE-API.git
 
 3) Install dependencies:-
@@ -44,7 +44,7 @@ after creating a db.js file in the config folder in the root directory and the r
 $ Shell/Terminal <br/>
 npm start <br/>
 The server will start running on http://localhost:3000.<br/>
---------------------------------------------------------------------------------x----------------------------------------------------------------------------------- <br/>
+--------------------------------------------------------------------------------x----------------------------------------------------------------------------- <br/>
 API Endpoints:-
 
 i) Add a product to the database
