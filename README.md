@@ -22,7 +22,11 @@ ecommerce-api <br/>
 │   └── db.js <br/>
 ├── server.js <br/>
 └── package.json <br/>
-
+└── package-lock.json <br/>
+└── README.md <br/>
+└── .gitattributes <br/>
+└── .gitignore <br/>
+└── Test 1 - Ecommerce API.docx <br/>
 
 Setup:-
 To set up the project on your local system, follow these steps:
