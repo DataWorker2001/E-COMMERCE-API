@@ -31,10 +31,9 @@ To set up the project on your local system, follow these steps:
 $ Shell/Terminal:<br/>
 git clone https://github.com/DataWorker2001/E-COMMERCE-API.git
 
-3) Install dependencies:-
-
-$ Shell/Terminal:
-cd ecommerce-api
+3) Install dependencies:- <br/>
+$ Shell/Terminal:<br/>
+cd ecommerce-api<br/>
 npm install
 
 
