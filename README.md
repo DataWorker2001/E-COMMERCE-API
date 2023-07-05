@@ -50,22 +50,21 @@ $ Shell/Terminal <br/>
 npm start <br/>
 The server will start running on http://localhost:3000.<br/>
 ---------------------------------------------------------------------------x----------------------------------------------------------------------------- 
-API Endpoints:-
+API Endpoints:-<br/>
 
 i) Add a product to the database
-URL [POST]: /products/create
+URL [POST]: /products/create<br/>
 
-Request body:
+Request body:<br/>
 
 $json: <br/>
 {
   "name": "laptop",
   "quantity": 10
 }
-Response body:
+Response body:<br/>
 
-json
-Copy code
+$json: <br/>
 {
   "product": {
     "name": "laptop",
